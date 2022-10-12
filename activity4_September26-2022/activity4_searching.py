@@ -19,7 +19,7 @@ print()
 
 # Binary Search in Python
 # iterative method
-
+print("Binary Search in python")
 def binarySearch(list, n):
     low = 0
     high = len(list) - 1

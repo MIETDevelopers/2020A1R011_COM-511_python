@@ -1,6 +1,8 @@
 # Program to find the largest number
 
 
+# creating a user-defined maximum function which takes three numbers as arguments 
+# returns the largest number
 
 def maximum(a, b, c):
     if (a >= b) and (a >= c):
